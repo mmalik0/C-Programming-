@@ -1,7 +1,10 @@
 #include<stdlib.h>
 #include<stdio.h>
 
-int main{
+int main()
+{
+
+    printf("You had me at \'Hello World!\' \n");
 
     return 0;
 }
